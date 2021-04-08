@@ -4,6 +4,7 @@
     ~~~~~~~~~
 
     Flask-JWT module
+    Adding comment
 """
 
 import logging
